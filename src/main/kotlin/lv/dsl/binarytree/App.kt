@@ -1,8 +1,4 @@
-package lv.dsl
-
-import lv.dsl.binarytree.binaryTree
-import lv.dsl.binarytree.left
-import lv.dsl.binarytree.right
+package lv.dsl.binarytree
 
 fun main() {
     val root = binaryTree(1) {
